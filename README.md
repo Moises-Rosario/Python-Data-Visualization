@@ -1,10 +1,10 @@
-Moises Dice Roller
-Moises API
-Moises Geojson
-Moises Matplot
-Moises Random Walk
-Moises Titanic 
-Moises Weather data
+Moises Dice Roller,
+Moises API,
+Moises Geojson,
+Moises Matplot,
+Moises Random Walk,
+Moises Titanic, 
+Moises Weather data,
 All these project mentioned above were modified from Eric Matthes' Python Crash Course book by Ronald Kiprono:
 Matthes, E. (2022). Python crash course: A hands-on, project-based introduction to programming (3rd ed.). No Starch Press.
 
